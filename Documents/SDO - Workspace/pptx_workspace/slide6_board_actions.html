@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #F4F6F6; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #1C2833; padding: 12pt 25pt;
+}
+.header h1 { color: #FFFFFF; font-size: 22pt; margin: 0; }
+.content {
+  flex: 1; padding: 12pt 25pt; display: flex; gap: 15pt;
+}
+.col { flex: 1; }
+.section-title { color: #1C2833; font-size: 11pt; margin: 0 0 8pt 0; font-weight: bold; }
+.action-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 8pt;
+  margin-bottom: 6pt; box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+  border-left: 3pt solid #3498DB;
+}
+.action-title { color: #1C2833; font-size: 10pt; margin: 0 0 4pt 0; font-weight: bold; }
+.action-text { color: #2C3E50; font-size: 8pt; margin: 0; }
+.decision-box {
+  background: #E8F6F3; border-radius: 4pt; padding: 8pt;
+  margin-bottom: 6pt; border-left: 3pt solid #1ABC9C;
+}
+.decision-title { color: #148F77; font-size: 10pt; margin: 0 0 4pt 0; font-weight: bold; }
+.decision-text { color: #0E6655; font-size: 8pt; margin: 0; }
+.timeline-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 8pt;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.08); margin-top: 8pt;
+}
+.timeline-title { color: #1C2833; font-size: 10pt; margin: 0 0 6pt 0; font-weight: bold; }
+.timeline-row {
+  display: flex; justify-content: space-between; padding: 3pt 0;
+  border-bottom: 1pt solid #ECF0F1;
+}
+.timeline-row:last-child { border-bottom: none; }
+.timeline-item { color: #2C3E50; font-size: 8pt; }
+.timeline-date { color: #7F8C8D; font-size: 8pt; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Board Actions Required</h1>
+</div>
+<div class="content">
+  <div class="col">
+    <p class="section-title">Recommendations for Approval</p>
+    <div class="action-box">
+      <p class="action-title">1. Approve Revised FY26 Budget</p>
+      <p class="action-text">Increase net income target from $4.2M to $6.4M based on RECs performance.</p>
+    </div>
+    <div class="action-box">
+      <p class="action-title">2. Authorize Collections Campaign</p>
+      <p class="action-text">Approve $62K+ in delinquent accounts to collections. Write off $81.</p>
+    </div>
+    <div class="action-box">
+      <p class="action-title">3. Bloom Marketing Cost Review</p>
+      <p class="action-text">Present cost reduction plan by Q3. Target: Break-even by FY27.</p>
+    </div>
+    <div class="action-box">
+      <p class="action-title">4. Events Strategy Refresh</p>
+      <p class="action-text">Review pipeline and conversion. Consider reducing target to 40 events.</p>
+    </div>
+  </div>
+  <div class="col">
+    <p class="section-title">Decisions Needed</p>
+    <div class="decision-box">
+      <p class="decision-title">Edward Daniels Civil Suit ($22K)</p>
+      <p class="decision-text">Confirm authorization to continue legal proceedings.</p>
+    </div>
+    <div class="decision-box">
+      <p class="decision-title">Interest Income Allocation</p>
+      <p class="decision-text">$72K YTD exceeding budget. Maintain current cash strategy.</p>
+    </div>
+    <div class="timeline-box">
+      <p class="timeline-title">Key Dates</p>
+      <div class="timeline-row">
+        <p class="timeline-item">AR Collections Launch</p>
+        <p class="timeline-date">Jan 17, 2026</p>
+      </div>
+      <div class="timeline-row">
+        <p class="timeline-item">Bill.com Implementation</p>
+        <p class="timeline-date">Jan 31, 2026</p>
+      </div>
+      <div class="timeline-row">
+        <p class="timeline-item">Mid-Year Financial Review</p>
+        <p class="timeline-date">Mar 31, 2026</p>
+      </div>
+      <div class="timeline-row">
+        <p class="timeline-item">Bloom Cost Review Due</p>
+        <p class="timeline-date">Jun 30, 2026</p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

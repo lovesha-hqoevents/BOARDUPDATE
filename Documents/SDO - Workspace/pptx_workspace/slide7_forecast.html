@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #F4F6F6; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #1C2833; padding: 12pt 25pt;
+}
+.header h1 { color: #FFFFFF; font-size: 22pt; margin: 0; }
+.content {
+  flex: 1; padding: 12pt 25pt; display: flex; gap: 15pt;
+}
+.left-col { width: 340pt; }
+.right-col { flex: 1; display: flex; flex-direction: column; }
+.section-title { color: #1C2833; font-size: 11pt; margin: 0 0 8pt 0; font-weight: bold; }
+.forecast-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 10pt;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.08); margin-bottom: 10pt;
+}
+.forecast-row {
+  display: flex; justify-content: space-between; padding: 4pt 0;
+  border-bottom: 1pt solid #ECF0F1;
+}
+.forecast-row:last-child { border-bottom: none; }
+.forecast-row.header {
+  background: #1C2833; color: #FFFFFF;
+  margin: -10pt -10pt 8pt -10pt; padding: 8pt 10pt;
+  border-radius: 4pt 4pt 0 0;
+}
+.forecast-label { font-size: 9pt; color: #2C3E50; }
+.forecast-value { font-size: 9pt; font-weight: bold; color: #1C2833; }
+.forecast-value.positive { color: #27AE60; }
+.outlook-box {
+  background: #EBF5FB; border-radius: 4pt; padding: 10pt;
+  border-left: 3pt solid #3498DB;
+}
+.outlook-title { color: #1A5276; font-size: 11pt; margin: 0 0 6pt 0; font-weight: bold; }
+.outlook-text { color: #2471A3; font-size: 9pt; margin: 0 0 4pt 0; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Revised FY26 Forecast</h1>
+</div>
+<div class="content">
+  <div class="left-col">
+    <p class="section-title">Annual Projection</p>
+    <div class="forecast-box">
+      <div class="forecast-row header">
+        <p class="forecast-label" style="color: #FFFFFF;">Metric</p>
+        <p class="forecast-value" style="color: #FFFFFF;">Original</p>
+        <p class="forecast-value" style="color: #FFFFFF;">Revised</p>
+        <p class="forecast-value" style="color: #FFFFFF;">Var</p>
+      </div>
+      <div class="forecast-row">
+        <p class="forecast-label">Total Revenue</p>
+        <p class="forecast-value">$9.7M</p>
+        <p class="forecast-value">$10.4M</p>
+        <p class="forecast-value positive">+7%</p>
+      </div>
+      <div class="forecast-row">
+        <p class="forecast-label">Total Expenses</p>
+        <p class="forecast-value">$5.5M</p>
+        <p class="forecast-value">$4.0M</p>
+        <p class="forecast-value positive">-27%</p>
+      </div>
+      <div class="forecast-row" style="background: #F8F9FA; margin: 8pt -10pt -10pt -10pt; padding: 8pt 10pt; border-radius: 0 0 4pt 4pt;">
+        <p class="forecast-label" style="font-weight: bold;">Net Income</p>
+        <p class="forecast-value">$4.2M</p>
+        <p class="forecast-value positive">$6.4M</p>
+        <p class="forecast-value positive">+52%</p>
+      </div>
+    </div>
+    <div class="outlook-box">
+      <p class="outlook-title">FY26 Outlook: Strong</p>
+      <p class="outlook-text">RECs performance provides significant upside cushion.</p>
+      <p class="outlook-text">Cash position remains robust for interest income.</p>
+      <p class="outlook-text">Key risk: AR collections and Bloom cost management.</p>
+    </div>
+  </div>
+  <div class="right-col">
+    <p class="section-title">Quarterly Net Income Forecast</p>
+    <div id="chart" class="placeholder" style="width: 310pt; height: 240pt; background: #E8E8E8; border-radius: 4pt;"></div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #F4F6F6; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #C0392B; padding: 12pt 25pt;
+}
+.header h1 { color: #FFFFFF; font-size: 22pt; margin: 0; }
+.content {
+  flex: 1; padding: 12pt 25pt; display: flex; gap: 15pt;
+}
+.col { flex: 1; }
+.issue-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 10pt;
+  margin-bottom: 8pt; box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+}
+.issue-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 5pt;
+}
+.issue-title { color: #C0392B; font-size: 11pt; margin: 0; font-weight: bold; }
+.issue-badge {
+  background: #FADBD8; border-radius: 8pt; padding: 2pt 6pt;
+}
+.badge-text { color: #922B21; font-size: 8pt; margin: 0; font-weight: bold; }
+.issue-text { color: #2C3E50; font-size: 9pt; margin: 0 0 4pt 0; }
+.issue-detail { color: #7F8C8D; font-size: 8pt; margin: 0; }
+.ar-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 10pt;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+}
+.ar-title { color: #1C2833; font-size: 11pt; margin: 0 0 8pt 0; font-weight: bold; }
+.ar-row {
+  display: flex; justify-content: space-between; padding: 4pt 0;
+  border-bottom: 1pt solid #ECF0F1;
+}
+.ar-row:last-child { border-bottom: none; }
+.ar-label { color: #2C3E50; font-size: 9pt; }
+.ar-value { color: #1C2833; font-size: 9pt; font-weight: bold; }
+.ar-value.critical { color: #C0392B; }
+.collections-box {
+  background: #FFFFFF; border-radius: 4pt; padding: 8pt;
+  margin-top: 8pt; border-left: 3pt solid #F39C12;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+}
+.collections-title { color: #9A7D0A; font-size: 10pt; margin: 0 0 4pt 0; font-weight: bold; }
+.collections-text { color: #2C3E50; font-size: 8pt; margin: 0 0 2pt 0; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Key Issues Requiring Board Attention</h1>
+</div>
+<div class="content">
+  <div class="col">
+    <div class="issue-box">
+      <div class="issue-header">
+        <p class="issue-title">1. AR Aging Crisis</p>
+        <div class="issue-badge"><p class="badge-text">CRITICAL</p></div>
+      </div>
+      <p class="issue-text">61% of Bloom Sales AR ($90K) is over 90 days old.</p>
+      <p class="issue-detail">$62K approved for collections. Edward Daniels ($22K) in civil suit.</p>
+    </div>
+    <div class="issue-box">
+      <div class="issue-header">
+        <p class="issue-title">2. Bloom Marketing Losses</p>
+        <div class="issue-badge"><p class="badge-text">HIGH</p></div>
+      </div>
+      <p class="issue-text">Segment losing $586K YTD despite $261K revenue.</p>
+      <p class="issue-detail">Hauling COGS ($511K) and Land App fees ($91K) driving losses.</p>
+    </div>
+    <div class="issue-box">
+      <div class="issue-header">
+        <p class="issue-title">3. Events Underperformance</p>
+        <div class="issue-badge"><p class="badge-text">MEDIUM</p></div>
+      </div>
+      <p class="issue-text">Only 3-4 events booked vs 13 Q1 target (24%).</p>
+      <p class="issue-detail">$43K revenue vs $174K budget. Pipeline review required.</p>
+    </div>
+  </div>
+  <div class="col">
+    <div class="ar-box">
+      <p class="ar-title">AR Aging Summary ($147K Total)</p>
+      <div class="ar-row">
+        <p class="ar-label">Current (0-30 days)</p>
+        <p class="ar-value">$0 (0%)</p>
+      </div>
+      <div class="ar-row">
+        <p class="ar-label">31-60 days</p>
+        <p class="ar-value">$13,213 (9%)</p>
+      </div>
+      <div class="ar-row">
+        <p class="ar-label">61-90 days</p>
+        <p class="ar-value">$44,161 (30%)</p>
+      </div>
+      <div class="ar-row">
+        <p class="ar-label">Over 90 days</p>
+        <p class="ar-value critical">$90,242 (61%)</p>
+      </div>
+    </div>
+    <div class="collections-box">
+      <p class="collections-title">Collections Actions Approved</p>
+      <p class="collections-text">Michael Raley Farm: $58,302</p>
+      <p class="collections-text">Divine Landscaping: $1,493</p>
+      <p class="collections-text">Bridget Wilson Flowers: $1,266</p>
+      <p class="collections-text">Georgia Builders: $709</p>
+      <p class="issue-detail" style="margin-top: 4pt;">Total to collections: $62,151+</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
