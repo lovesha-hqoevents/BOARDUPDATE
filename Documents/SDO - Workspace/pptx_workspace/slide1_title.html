@@ -10,6 +10,21 @@ body {
 }
 .content {
   padding: 40pt 30pt;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-content {
+  flex: 1;
+}
+.logo-container {
+  width: 200pt;
+  display: flex;
+  justify-content: flex-end;
+}
+.logo {
+  width: 180pt;
+  height: auto;
 }
 .title {
   color: #1C4587; font-size: 40pt; margin: 0 0 8pt 0; font-weight: bold;
@@ -24,10 +39,15 @@ body {
 </head>
 <body>
 <div class="content">
-  <p class="title">Blue Drop Board</p>
-  <p class="title">Update</p>
-  <p class="subtitle">FY26 - Q2 Financial Review</p>
-  <p class="date">YTD Performance: October 1, 2025 - January 19, 2026</p>
+  <div class="text-content">
+    <p class="title">Blue Drop Board</p>
+    <p class="title">Update</p>
+    <p class="subtitle">FY26 - Q2 Financial Review</p>
+    <p class="date">YTD Performance: October 1, 2025 - January 19, 2026</p>
+  </div>
+  <div class="logo-container">
+    <img class="logo" src="bluedrop_logo.png" alt="Blue Drop Logo">
+  </div>
 </div>
 </body>
 </html>
