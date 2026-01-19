@@ -5,11 +5,11 @@
 html { background: #ffffff; }
 body {
   width: 720pt; height: 405pt; margin: 0; padding: 0;
-  background: #F4F6F6; font-family: Arial, sans-serif;
+  background: #FFFFFF; font-family: Arial, sans-serif;
   display: flex; flex-direction: column;
 }
 .header {
-  background: #1C2833; padding: 12pt 25pt;
+  background: #1C4587; padding: 12pt 25pt;
 }
 .header h1 { color: #FFFFFF; font-size: 22pt; margin: 0; }
 .content {
@@ -17,30 +17,29 @@ body {
 }
 .left-col { width: 340pt; }
 .right-col { flex: 1; display: flex; flex-direction: column; }
-.section-title { color: #1C2833; font-size: 11pt; margin: 0 0 8pt 0; font-weight: bold; }
+.section-title { color: #1C4587; font-size: 11pt; margin: 0 0 8pt 0; font-weight: bold; }
 .forecast-box {
-  background: #FFFFFF; border-radius: 4pt; padding: 10pt;
-  box-shadow: 1px 1px 4px rgba(0,0,0,0.08); margin-bottom: 10pt;
+  background: #F8F9FA; border-radius: 4pt; padding: 10pt; margin-bottom: 10pt;
 }
 .forecast-row {
   display: flex; justify-content: space-between; padding: 4pt 0;
-  border-bottom: 1pt solid #ECF0F1;
+  border-bottom: 1pt solid #E0E0E0;
 }
 .forecast-row:last-child { border-bottom: none; }
 .forecast-row.header {
-  background: #1C2833; color: #FFFFFF;
+  background: #1C4587; color: #FFFFFF;
   margin: -10pt -10pt 8pt -10pt; padding: 8pt 10pt;
   border-radius: 4pt 4pt 0 0;
 }
-.forecast-label { font-size: 9pt; color: #2C3E50; }
-.forecast-value { font-size: 9pt; font-weight: bold; color: #1C2833; }
-.forecast-value.positive { color: #27AE60; }
+.forecast-label { font-size: 9pt; color: #333333; }
+.forecast-value { font-size: 9pt; font-weight: bold; color: #1C4587; }
+.forecast-value.positive { color: #50B432; }
 .outlook-box {
-  background: #EBF5FB; border-radius: 4pt; padding: 10pt;
-  border-left: 3pt solid #3498DB;
+  background: #E3F2FD; border-radius: 4pt; padding: 10pt;
+  border-left: 3pt solid #058DC7;
 }
-.outlook-title { color: #1A5276; font-size: 11pt; margin: 0 0 6pt 0; font-weight: bold; }
-.outlook-text { color: #2471A3; font-size: 9pt; margin: 0 0 4pt 0; }
+.outlook-title { color: #1565C0; font-size: 11pt; margin: 0 0 6pt 0; font-weight: bold; }
+.outlook-text { color: #1976D2; font-size: 9pt; margin: 0 0 4pt 0; }
 </style>
 </head>
 <body>
@@ -69,7 +68,7 @@ body {
         <p class="forecast-value">$4.0M</p>
         <p class="forecast-value positive">-27%</p>
       </div>
-      <div class="forecast-row" style="background: #F8F9FA; margin: 8pt -10pt -10pt -10pt; padding: 8pt 10pt; border-radius: 0 0 4pt 4pt;">
+      <div class="forecast-row" style="background: #F0F0F0; margin: 8pt -10pt -10pt -10pt; padding: 8pt 10pt; border-radius: 0 0 4pt 4pt;">
         <p class="forecast-label" style="font-weight: bold;">Net Income</p>
         <p class="forecast-value">$4.2M</p>
         <p class="forecast-value positive">$6.4M</p>

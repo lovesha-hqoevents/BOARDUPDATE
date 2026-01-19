@@ -6,7 +6,7 @@ async function createPresentation() {
     const pptx = new pptxgen();
     pptx.layout = 'LAYOUT_16x9';
     pptx.author = 'Blue Drop, LLC';
-    pptx.title = 'FY26 Q2 Board Financial Update - YTD vs Budget';
+    pptx.title = 'FY26 Q2 Board Update - YTD vs Budget';
     pptx.subject = 'Financial Performance Through January 19, 2026';
 
     const workDir = '/Users/loveg/Documents/SDO - Workspace/pptx_workspace';
@@ -24,7 +24,7 @@ async function createPresentation() {
     const { slide: slide3, placeholders: ph3 } = await html2pptx(path.join(workDir, 'slide3_ytd_performance.html'), pptx);
 
     if (ph3.length > 0) {
-        // Clustered bar chart showing Q1 Budget vs YTD Actual
+        // Clustered bar chart showing Q1 Budget vs YTD Actual (Blue Drop colors)
         slide3.addChart(pptx.charts.BAR, [
             {
                 name: "Q1 Budget",
@@ -42,7 +42,7 @@ async function createPresentation() {
             barGrouping: 'clustered',
             showLegend: true,
             legendPos: 'b',
-            chartColors: ["1C2833", "27AE60"],
+            chartColors: ["1C4587", "50B432"],
             showValue: false,
             valAxisDisplayUnit: 'thousands',
             valAxisMaxVal: 3000000
@@ -85,7 +85,7 @@ async function createPresentation() {
             title: 'FY26 Quarterly Forecast',
             showLegend: true,
             legendPos: 'b',
-            chartColors: ["0077B6", "27AE60"],
+            chartColors: ["058DC7", "50B432"],
             valAxisDisplayUnit: 'millions',
             valAxisMinVal: 0,
             valAxisMaxVal: 4000000,
