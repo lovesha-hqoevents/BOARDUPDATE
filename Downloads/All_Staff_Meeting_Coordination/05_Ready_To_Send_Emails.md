@@ -170,31 +170,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
+You'll also be facilitating again in **August 2026**.
+
+Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+
 Thank you for your leadership!
-
-Best,
-Lovesha Graham
-
----
-
-## EMAIL TO: Kaelyn Green
-
-**Subject:** All-Staff Meeting Facilitator Assignment – August 2026 (2nd Rotation)
-
-Hi Kaelyn,
-
-Thank you again for facilitating the January All-Staff meeting – great job!
-
-I wanted to let you know that you're scheduled to facilitate again in **August 2026** as part of our rotation.
-
-**Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
-
-You already have the Facilitator Guide from January, but let me know if you need another copy or have any questions.
-
-Thanks again for your leadership!
 
 Best,
 Lovesha Graham

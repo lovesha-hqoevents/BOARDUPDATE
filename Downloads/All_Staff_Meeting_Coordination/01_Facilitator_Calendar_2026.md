@@ -11,7 +11,7 @@
 | **May** | Junell Venord | Pending | |
 | **June** | Herlyth Clark | Pending | |
 | **July** | Kimberly Newman | Pending | |
-| **August** | Kaelyn Green | Pending | 2nd rotation |
+| **August** | Kimberly Newman | Pending | 2nd rotation |
 | **September** | Rasul Sha'ir | Pending | 2nd rotation |
 | **October** | Mari Rodela | Pending | 2nd rotation |
 | **November** | Junell Venord | Pending | 2nd rotation |
@@ -23,12 +23,12 @@
 
 | Director | Assigned Months |
 |----------|-----------------|
-| Kaelyn Green | January ✅, August |
+| Kaelyn Green | January ✅ |
 | Rasul Sha'ir | March, September |
 | Mari Rodela | April, October |
 | Junell Venord | May, November |
 | Herlyth Clark | June, December |
-| Kimberly Newman | July |
+| Kimberly Newman | July, August |
 
 ---
 
@@ -43,7 +43,7 @@ Send reminders **2 weeks before** each All-Staff meeting.
 | May | Junell Venord | 2 wks before meeting |
 | June | Herlyth Clark | 2 wks before meeting |
 | July | Kimberly Newman | 2 wks before meeting |
-| August | Kaelyn Green | 2 wks before meeting |
+| August | Kimberly Newman | 2 wks before meeting |
 | September | Rasul Sha'ir | 2 wks before meeting |
 | October | Mari Rodela | 2 wks before meeting |
 | November | Junell Venord | 2 wks before meeting |
