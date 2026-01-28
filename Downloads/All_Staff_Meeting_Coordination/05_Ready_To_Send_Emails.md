@@ -24,11 +24,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
+- **March 2:** I'll send you a reminder with a checklist
+- **March 9:** Please share your finalized agenda with me
+- **March 16:** All-Staff Meeting (1:00–2:30 PM)
 
-You'll also be facilitating again in **September 2026**.
+You'll also be facilitating again in **September 2026 (9/21)**.
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
@@ -59,11 +59,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
+- **April 6:** I'll send you a reminder with a checklist
+- **April 13:** Please share your finalized agenda with me
+- **April 20:** All-Staff Meeting (1:00–2:30 PM)
 
-You'll also be facilitating again in **October 2026**.
+You'll also be facilitating again in **October 2026 (10/19)**.
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
@@ -94,11 +94,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
+- **May 4:** I'll send you a reminder with a checklist
+- **May 11:** Please share your finalized agenda with me
+- **May 18:** All-Staff Meeting (1:00–2:30 PM)
 
-You'll also be facilitating again in **November 2026**.
+You'll also be facilitating again in **November 2026 (11/16)**.
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
@@ -129,11 +129,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
+- **June 1:** I'll send you a reminder with a checklist
+- **June 8:** Please share your finalized agenda with me
+- **June 15:** All-Staff Meeting (1:00–2:30 PM)
 
-You'll also be facilitating again in **December 2026**.
+You'll also be facilitating again in **December 2026 (12/21)**.
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
@@ -164,13 +164,11 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
-- **1 week before:** Please share your finalized agenda with me
-- **Meeting date:** TBD
+- **July 6:** I'll send you a reminder with a checklist
+- **July 13:** Please share your finalized agenda with me
+- **July 20:** All-Staff Meeting (1:00–2:30 PM)
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
-
-You'll also be facilitating again in **August 2026**.
+You'll also be facilitating again in **August 2026 (8/17)**.
 
 Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
 
