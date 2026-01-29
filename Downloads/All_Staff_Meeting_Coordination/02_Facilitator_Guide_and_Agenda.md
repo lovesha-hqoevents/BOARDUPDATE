@@ -63,7 +63,6 @@ As a rotating facilitator, you are responsible for leading and coordinating the 
 6. **Finalize Agenda**
    - Confirm all presenters
    - Create/review slide deck if applicable
-   - Share final agenda with Lovesha Graham
 
 ### Day of Meeting
 
