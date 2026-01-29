@@ -12,7 +12,7 @@
 
 **Time:** 1:00 PM – 2:30 PM
 
-**Location:** [Meeting Room / Virtual Link]
+**Format:** Virtual
 
 ---
 
@@ -31,29 +31,24 @@ Join us for our monthly All-Staff meeting. Each month, a rotating director facil
 6. Shoutouts (5 min)
 7. Closing
 
-**This Month's Facilitator:** [Update per month]
-
 Have announcements or shoutouts to share? Please submit them to Lovesha Graham at least 3 days before the meeting.
 
 Questions about the meeting? Contact Lovesha Graham.
 
 ---
 
-## Monthly Facilitator Reference
+## 2026 Meeting Dates & Facilitators
 
-Update the "This Month's Facilitator" line for each occurrence:
-
-| Month | Facilitator |
-|-------|-------------|
-| January | Kaelyn Green |
-| February | Kara |
-| March | Rasul Sha'ir |
-| April | Mari Rodela |
-| May | Junell Venord |
-| June | Herlyth Clark |
-| July | Kimberly Newman |
-| August | Kimberly Newman |
-| September | Rasul Sha'ir |
-| October | Mari Rodela |
-| November | Junell Venord |
-| December | Herlyth Clark |
+| Date | Facilitator | Notes |
+|------|-------------|-------|
+| **Tuesday, February 17** | Kara | Strategic Planning Update (moved from Mon 2/16 – Presidents' Day) |
+| **Monday, March 16** | Rasul Sha'ir | |
+| **Monday, April 20** | Mari Rodela | |
+| **Monday, May 18** | Junell Venord | |
+| **Monday, June 15** | Herlyth Clark | |
+| **Monday, July 20** | Kimberly Newman | |
+| **Monday, August 17** | Kimberly Newman | |
+| **Monday, September 21** | Rasul Sha'ir | |
+| **Monday, October 19** | Mari Rodela | |
+| **Monday, November 16** | Junell Venord | |
+| **Monday, December 21** | Herlyth Clark | |
