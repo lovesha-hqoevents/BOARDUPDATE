@@ -41,7 +41,7 @@ Questions about the meeting? Contact Lovesha Graham.
 
 | Date | Facilitator | Notes |
 |------|-------------|-------|
-| **Tuesday, February 17** | Kara | Strategic Planning Update (moved from Mon 2/16 – Presidents' Day) |
+| **Tuesday, February 17** | Kimberly Newman | Strategic Planning Update – Kara presenting (moved from Mon 2/16 – Presidents' Day) |
 | **Monday, March 16** | Rasul Sha'ir | |
 | **Monday, April 20** | Mari Rodela | |
 | **Monday, May 18** | Junell Venord | |

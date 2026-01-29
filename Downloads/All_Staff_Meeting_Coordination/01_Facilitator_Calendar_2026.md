@@ -7,7 +7,7 @@
 | Month | Date | Facilitator | Status | Notes |
 |-------|------|-------------|--------|-------|
 | **January** | 1/19 | Kaelyn Green | ✅ Complete | EOY Recap / 2026 Goals |
-| **February** | 2/17 (Tue) | Kara | Pre-Assigned | Strategic Planning Update (moved from 2/16 holiday) |
+| **February** | 2/17 (Tue) | Kimberly Newman | Pending | Strategic Planning Update – Kara presenting (moved from 2/16 holiday) |
 | **March** | 3/16 | Rasul Sha'ir | Pending | |
 | **April** | 4/20 | Mari Rodela | Pending | |
 | **May** | 5/18 | Junell Venord | Pending | |
@@ -30,7 +30,7 @@
 | Mari Rodela | April, October |
 | Junell Venord | May, November |
 | Herlyth Clark | June, December |
-| Kimberly Newman | July |
+| Kimberly Newman | February, July |
 
 ---
 
@@ -40,7 +40,7 @@ Send reminders **2 weeks before** each All-Staff meeting.
 
 | Month | Meeting Date | Facilitator | Reminder Due |
 |-------|--------------|-------------|--------------|
-| February | 2/17 | Kara | 2/3 |
+| February | 2/17 | Kimberly Newman | 2/3 |
 | March | 3/16 | Rasul Sha'ir | 3/2 |
 | April | 4/20 | Mari Rodela | 4/6 |
 | May | 5/18 | Junell Venord | 5/4 |
