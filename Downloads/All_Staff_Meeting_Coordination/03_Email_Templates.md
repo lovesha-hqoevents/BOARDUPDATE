@@ -25,7 +25,7 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - Collect Announcements and Shoutouts from departments
 
 **Timeline:**
-- **2 weeks before:** I'll send you a reminder with a checklist
+- **2 weeks before:** You'll receive a calendar reminder with a prep checklist
 - **1 week before:** Please share your finalized agenda with me
 - **Meeting date:** [Date TBD]
 
@@ -40,43 +40,33 @@ Lovesha Graham
 
 ---
 
-## EMAIL 2: Two-Week Reminder
+## CALENDAR INVITE 2: Two-Week Prep Reminder
 
-**To:** [Director Name]
-**Subject:** Reminder: You're Facilitating All-Staff in 2 Weeks – [Date]
+**Send as:** Outlook calendar reminder (2 weeks before each meeting)
+**To:** Assigned Facilitator
+**Title:** Facilitator Prep Reminder – All-Staff Meeting [Date]
+**Time:** 30-minute placeholder block (facilitator's choice)
 
 ---
 
-Hi [First Name],
+**Invite Body:**
 
-This is a friendly reminder that you are the facilitator for our upcoming All-Staff meeting on **[Date]**.
+Friendly reminder — you are the facilitator for the All-Staff meeting on [Date].
 
-**Checklist – Please Complete This Week:**
+Please complete the following this week:
 
-☐ **Ecosystem Topic** – Have you selected your 5-minute topic?
+- Select your Ecosystem Topic (5 min)
+- Connect with the Exec Team to determine the Major Internal Topic and presenter (10–15 min)
+- Confirm your Internal TED Talk / Org Highlight presenter(s) (10–15 min)
+  Suggested topics: AAC PR Strategy, Fusion Festival, Hive Transition, Sustainable DC
+- Reach out to Programs or Lending for a Client Story presenter (5 min)
 
-☐ **Major Internal Topic** – Have you connected with the Exec Team to determine the main topic and presenter?
+Next week:
+- Send a department-wide request for Announcements (1–2 per dept)
+- Send a department-wide request for Shoutouts (1–2 per dept)
+- Share your finalized agenda with Lovesha Graham by [Date – 1 week before]
 
-☐ **Internal TED Talk** – Have you confirmed your presenter(s)?
-   - Suggested topics: AAC PR Strategy, Fusion Festival, Hive Transition, Sustainable DC
-
-☐ **Client Story** – Have you reached out to Programs or Lending for a client presenter?
-
-**Next Week:**
-
-☐ Send a department-wide request for Announcements (1-2 per dept)
-
-☐ Send a department-wide request for Shoutouts (1-2 per dept)
-
-☐ Share your finalized agenda with me by [Date - 1 week before]
-
-**Need Help?**
-Let me know if you need contact information for any presenters or have questions about the format. I'm happy to assist!
-
-Looking forward to a great meeting.
-
-Best,
-Lovesha Graham
+Questions about the format or need presenter contacts? Reach out to Lovesha Graham.
 
 ---
 
