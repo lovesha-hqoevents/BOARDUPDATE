@@ -34,7 +34,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **March 2:** You'll receive a calendar reminder with a prep checklist
-- **March 9:** Please share your finalized agenda with me
 - **March 16:** All-Staff Meeting (1:00–2:30 PM)
 
 You'll also be facilitating again in **September 2026 (9/21)**.
@@ -83,7 +82,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **April 6:** You'll receive a calendar reminder with a prep checklist
-- **April 13:** Please share your finalized agenda with me
 - **April 20:** All-Staff Meeting (1:00–2:30 PM)
 
 You'll also be facilitating again in **October 2026 (10/19)**.
@@ -132,7 +130,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **May 4:** You'll receive a calendar reminder with a prep checklist
-- **May 11:** Please share your finalized agenda with me
 - **May 18:** All-Staff Meeting (1:00–2:30 PM)
 
 You'll also be facilitating again in **November 2026 (11/16)**.
@@ -181,7 +178,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **June 1:** You'll receive a calendar reminder with a prep checklist
-- **June 8:** Please share your finalized agenda with me
 - **June 15:** All-Staff Meeting (1:00–2:30 PM)
 
 You'll also be facilitating again in **December 2026 (12/21)**.
@@ -230,7 +226,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **July 6:** You'll receive a calendar reminder with a prep checklist
-- **July 13:** Please share your finalized agenda with me
 - **July 20:** All-Staff Meeting (1:00–2:30 PM)
 
 **Resources:**
@@ -277,7 +272,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **August 3:** You'll receive a calendar reminder with a prep checklist
-- **August 10:** Please share your finalized agenda with me
 - **August 17:** All-Staff Meeting (1:00–2:30 PM)
 
 **Resources:**

@@ -35,7 +35,6 @@ Each meeting will follow this structure:
 
 **Timeline:**
 - **2 weeks before:** You'll receive a calendar reminder with a prep checklist
-- **1 week before:** Please share your finalized agenda with me
 - **Meeting date:** [Date TBD]
 
 I've attached the Facilitator Guide, Agenda Template, and Presentation link so you have everything you need. Please review and let me know if you have any questions — I'm here to support you throughout the process.
@@ -76,8 +75,6 @@ Please complete the following this week:
 Next week:
 - Send a department-wide request for Announcements (1–2 per dept)
 - Send a department-wide request for Shoutouts (1–2 per dept)
-- Share your finalized agenda with Lovesha Graham by [Date – 1 week before]
-
 Questions about the format or need presenter contacts? Reach out to Lovesha Graham.
 
 ---
@@ -110,35 +107,7 @@ Lovesha Graham
 
 ---
 
-## EMAIL 4: Agenda Confirmation (1 Week Before)
-
-**To:** [Director Name]
-**Subject:** All-Staff Agenda Confirmation – [Date]
-
----
-
-Hi [First Name],
-
-Just one week until you facilitate All-Staff! Please share your finalized agenda with me by **[Date]** so I can ensure everything is in order.
-
-**Your Agenda Should Include:**
-1. Ecosystem Topic – Title and brief description
-2. Major Internal Topic – Topic and presenter name
-3. Internal TED Talk – Topic and presenter name(s)
-4. Client Story – Presenter name (from Programs or Lending)
-5. Announcements – Compiled list (I can help with this)
-6. Shoutouts – Compiled list (I can help with this)
-
-If you haven't received all announcement/shoutout submissions, I'll send a reminder to departments today.
-
-Let me know if you need anything!
-
-Best,
-Lovesha Graham
-
----
-
-## EMAIL 5: Post-Meeting Thank You
+## EMAIL 4: Post-Meeting Thank You
 
 **To:** [Director Name]
 **Subject:** Thank You for Facilitating All-Staff!
