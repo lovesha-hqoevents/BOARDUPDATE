@@ -5,22 +5,31 @@
 ## EMAIL 1: Initial Assignment Notification
 
 **To:** [Director Name]
-**Subject:** All-Staff Meeting Facilitator Assignment – [Month 2026]
+**Subject:** New All-Staff Meeting Format – Your Facilitator Assignment
 
 ---
 
 Hi [First Name],
 
-I hope this message finds you well. I'm reaching out to share an exciting update about our restructured All-Staff meetings.
+I hope this message finds you well. I'm reaching out to share a new format for our All-Staff meetings that we're rolling out this year.
+
+Going forward, directors will rotate as meeting facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've been asked to coordinate this process, and I'm sharing the new agenda structure and your responsibilities below.
 
 **You have been assigned as the Meeting Facilitator for the [Month 2026] All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+**New Agenda Format:**
+Each meeting will follow this structure:
+1. Ecosystem Topic (5 min) – facilitator's choice
+2. Major Internal Topic / Update (10–15 min) – coordinate with Exec Team
+3. Internal TED Talk / Org Highlights (10–15 min) – facilitator's choice + arrange presenter(s)
+4. Client Story (5 min) – Programs or Lending brings a client presentation
+5. Announcements (1–2 per department)
+6. Shoutouts (1–2 per department)
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
-- Coordinate the Major Internal Topic with the Exec Team (10-15 min)
-- Arrange an Internal TED Talk/Org Highlight (10-15 min)
+- Coordinate the Major Internal Topic with the Exec Team (10–15 min)
+- Arrange an Internal TED Talk / Org Highlight (10–15 min)
 - Coordinate a Client Story with Programs or Lending (5 min)
 - Collect Announcements and Shoutouts from departments
 
@@ -29,14 +38,17 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 - **1 week before:** Please share your finalized agenda with me
 - **Meeting date:** [Date TBD]
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+I've attached the Facilitator Guide, Agenda Template, and Presentation link so you have everything you need. Please review and let me know if you have any questions — I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
 Best,
 Lovesha Graham
 
-**Attachment:** All-Staff Meeting Facilitator Guide
+**Attachments:**
+- Facilitator Guide
+- Agenda Template (New All Staff Agenda Template.docx)
+- [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 ---
 

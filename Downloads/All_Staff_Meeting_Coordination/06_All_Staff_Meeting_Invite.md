@@ -47,7 +47,7 @@ Questions about the meeting? Contact Lovesha Graham.
 | **Monday, May 18** | Junell Venord | |
 | **Monday, June 15** | Herlyth Clark | |
 | **Monday, July 20** | Kimberly Newman | |
-| **Monday, August 17** | Kimberly Newman | |
+| **Monday, August 17** | Kaelyn Green | |
 | **Monday, September 21** | Rasul Sha'ir | |
 | **Monday, October 19** | Mari Rodela | |
 | **Monday, November 16** | Junell Venord | |
