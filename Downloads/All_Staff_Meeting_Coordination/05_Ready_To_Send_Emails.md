@@ -14,7 +14,7 @@ I hope this message finds you well. I'm reaching out to share an update about ou
 
 **You have been assigned as the Meeting Facilitator for the March 2026 All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've included the Presentation link, Agenda Template, and Facilitator Guide below so you have everything you need.
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
@@ -30,7 +30,12 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 You'll also be facilitating again in **September 2026 (9/21)**.
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+**Resources:**
+- **Presentation:** [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- **Agenda Template:** Attached (New All Staff Agenda Template.docx)
+- **Facilitator Guide:** Attached
+
+Please review the resources and let me know if you have any questions. I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
@@ -49,7 +54,7 @@ I hope this message finds you well. I'm reaching out to share an update about ou
 
 **You have been assigned as the Meeting Facilitator for the April 2026 All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've included the Presentation link, Agenda Template, and Facilitator Guide below so you have everything you need.
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
@@ -65,7 +70,12 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 You'll also be facilitating again in **October 2026 (10/19)**.
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+**Resources:**
+- **Presentation:** [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- **Agenda Template:** Attached (New All Staff Agenda Template.docx)
+- **Facilitator Guide:** Attached
+
+Please review the resources and let me know if you have any questions. I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
@@ -84,7 +94,7 @@ I hope this message finds you well. I'm reaching out to share an update about ou
 
 **You have been assigned as the Meeting Facilitator for the May 2026 All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've included the Presentation link, Agenda Template, and Facilitator Guide below so you have everything you need.
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
@@ -100,7 +110,12 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 You'll also be facilitating again in **November 2026 (11/16)**.
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+**Resources:**
+- **Presentation:** [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- **Agenda Template:** Attached (New All Staff Agenda Template.docx)
+- **Facilitator Guide:** Attached
+
+Please review the resources and let me know if you have any questions. I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
@@ -119,7 +134,7 @@ I hope this message finds you well. I'm reaching out to share an update about ou
 
 **You have been assigned as the Meeting Facilitator for the June 2026 All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've included the Presentation link, Agenda Template, and Facilitator Guide below so you have everything you need.
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
@@ -135,7 +150,12 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 You'll also be facilitating again in **December 2026 (12/21)**.
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+**Resources:**
+- **Presentation:** [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- **Agenda Template:** Attached (New All Staff Agenda Template.docx)
+- **Facilitator Guide:** Attached
+
+Please review the resources and let me know if you have any questions. I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
@@ -154,7 +174,7 @@ I hope this message finds you well. I'm reaching out to share an update about ou
 
 **You have been assigned as the Meeting Facilitator for the July 2026 All-Staff meeting.**
 
-As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've attached the Facilitator Guide, which outlines the new agenda structure and your responsibilities.
+As part of our new format, directors will rotate as facilitators to bring fresh perspectives and leadership to our monthly gatherings. I've included the Presentation link, Agenda Template, and Facilitator Guide below so you have everything you need.
 
 **Your Key Responsibilities:**
 - Select an Ecosystem Topic (5 min) – your choice
@@ -170,7 +190,12 @@ As part of our new format, directors will rotate as facilitators to bring fresh 
 
 You'll also be facilitating again in **August 2026 (8/17)**.
 
-Please review the attached guide and let me know if you have any questions. I'm here to support you throughout the process.
+**Resources:**
+- **Presentation:** [All-Staff Meeting Presentation](https://www.canva.com/design/DAG_irqlN54/tz9X5a8zbEVfCciddAerEA/view?utm_content=DAG_irqlN54&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- **Agenda Template:** Attached (New All Staff Agenda Template.docx)
+- **Facilitator Guide:** Attached
+
+Please review the resources and let me know if you have any questions. I'm here to support you throughout the process.
 
 Thank you for your leadership!
 
